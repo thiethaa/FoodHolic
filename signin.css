@@ -1,0 +1,31 @@
+body{
+    background-image: url(images/knife-2879328_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: purple;
+    text-shadow: 2px 2px black;
+}
+
+form{
+    width:25%;
+    color:purple;
+    margin:auto;
+}
+
+form:hover{
+    color:purple;
+}
+form h2{
+    text-align: center;
+}
+
+.btn{
+    background:plum;
+}
+
+.btn:hover{
+    background:purple;
+}

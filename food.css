@@ -1,0 +1,30 @@
+html,body{
+    background:silver;
+}
+
+.container{
+    width:100%;
+    margin:auto;
+}
+
+nav{
+    padding:10px;
+    margin:auto;
+}
+
+ul{
+    background:rgb(63, 62, 62);
+}
+
+ul a{
+    font-weight: bold;
+}
+
+.carousel{
+    background:whitesmoke
+}
+
+.carousel img{
+  margin:auto;
+}
+
